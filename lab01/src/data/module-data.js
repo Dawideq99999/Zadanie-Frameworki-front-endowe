@@ -1,274 +1,274 @@
 export const data = [
 {
  id: 1,
- name: "Dawid",
+ name: "Lena",
  birth: "1999-10-11",
- eyes:"black"
+ eyes:"blue"
 },
 
 {
  id: 2,
  name: "Lena",
- birth: "1953-11-10",
- eyes:"green"
+ birth: "1999-10-11",
+ eyes:"grey"
 },
 
 {
  id: 3,
- name: "Natalia",
- birth: "1953-11-10",
- eyes:"grey"
-},
-
-{
- id: 4,
- name: "Lena",
- birth: "2005-01-15",
- eyes:"hazel"
-},
-
-{
- id: 5,
  name: "Mikołaj",
- birth: "1965-09-19",
- eyes:"grey"
-},
-
-{
- id: 6,
- name: "Zuzanna",
- birth: "1989-05-19",
- eyes:"black"
-},
-
-{
- id: 7,
- name: "Dawid",
  birth: "1999-10-11",
  eyes:"hazel"
 },
 
 {
- id: 8,
+ id: 4,
  name: "Mikołaj",
+ birth: "1999-10-11",
+ eyes:"grey"
+},
+
+{
+ id: 5,
+ name: "Lena",
+ birth: "2005-02-24",
+ eyes:"hazel"
+},
+
+{
+ id: 6,
+ name: "Natalia",
  birth: "1953-11-10",
+ eyes:"blue"
+},
+
+{
+ id: 7,
+ name: "Zuzanna",
+ birth: "2000-10-10",
+ eyes:"amber"
+},
+
+{
+ id: 8,
+ name: "Zuzanna",
+ birth: "2000-10-10",
  eyes:"hazel"
 },
 
 {
  id: 9,
- name: "Dawid",
+ name: "Mikołaj",
  birth: "1953-11-10",
- eyes:"amber"
+ eyes:"black"
 },
 
 {
  id: 10,
  name: "Dawid",
- birth: "1999-10-11",
- eyes:"black"
+ birth: "2005-01-15",
+ eyes:"amber"
 },
 
 {
  id: 11,
- name: "Dawid",
- birth: "2005-02-24",
- eyes:"green"
+ name: "Natalia",
+ birth: "2005-01-15",
+ eyes:"blue"
 },
 
 {
  id: 12,
- name: "Natalia",
- birth: "1989-05-19",
- eyes:"hazel"
+ name: "Kacper",
+ birth: "1953-11-10",
+ eyes:"black"
 },
 
 {
  id: 13,
- name: "Zuzanna",
- birth: "2000-10-10",
- eyes:"green"
+ name: "Natalia",
+ birth: "2005-01-15",
+ eyes:"hazel"
 },
 
 {
  id: 14,
- name: "Zuzanna",
- birth: "2000-10-10",
- eyes:"amber"
+ name: "Natalia",
+ birth: "1999-10-11",
+ eyes:"black"
 },
 
 {
  id: 15,
  name: "Kacper",
  birth: "1999-10-11",
- eyes:"black"
+ eyes:"hazel"
 },
 
 {
  id: 16,
- name: "Lena",
- birth: "2000-10-10",
- eyes:"black"
+ name: "Kacper",
+ birth: "1965-09-19",
+ eyes:"grey"
 },
 
 {
  id: 17,
  name: "Mikołaj",
- birth: "1989-05-19",
+ birth: "1999-10-11",
  eyes:"amber"
 },
 
 {
  id: 18,
- name: "Zuzanna",
- birth: "2005-01-15",
- eyes:"green"
+ name: "Mikołaj",
+ birth: "2000-10-10",
+ eyes:"grey"
 },
 
 {
  id: 19,
- name: "Lena",
- birth: "2005-02-24",
- eyes:"hazel"
-},
-
-{
- id: 20,
- name: "Natalia",
- birth: "1965-09-19",
- eyes:"blue"
-},
-
-{
- id: 21,
- name: "Natalia",
+ name: "Mikołaj",
  birth: "1965-09-19",
  eyes:"amber"
 },
 
 {
- id: 22,
- name: "Natalia",
+ id: 20,
+ name: "Mikołaj",
+ birth: "1999-10-11",
+ eyes:"grey"
+},
+
+{
+ id: 21,
+ name: "Lena",
  birth: "2005-01-15",
  eyes:"grey"
+},
+
+{
+ id: 22,
+ name: "Mikołaj",
+ birth: "2005-01-15",
+ eyes:"amber"
 },
 
 {
  id: 23,
  name: "Kacper",
- birth: "1989-05-19",
- eyes:"green"
+ birth: "2005-01-15",
+ eyes:"black"
 },
 
 {
  id: 24,
- name: "Kacper",
+ name: "Natalia",
  birth: "2000-10-10",
- eyes:"blue"
+ eyes:"green"
 },
 
 {
  id: 25,
- name: "Zuzanna",
- birth: "1999-10-11",
- eyes:"grey"
+ name: "Mikołaj",
+ birth: "1989-05-19",
+ eyes:"black"
 },
 
 {
  id: 26,
  name: "Dawid",
- birth: "2005-01-15",
- eyes:"amber"
-},
-
-{
- id: 27,
- name: "Mikołaj",
- birth: "2005-01-15",
+ birth: "1953-11-10",
  eyes:"hazel"
 },
 
 {
+ id: 27,
+ name: "Zuzanna",
+ birth: "1989-05-19",
+ eyes:"blue"
+},
+
+{
  id: 28,
- name: "Dawid",
- birth: "1965-09-19",
- eyes:"amber"
+ name: "Zuzanna",
+ birth: "1999-10-11",
+ eyes:"green"
 },
 
 {
  id: 29,
  name: "Zuzanna",
- birth: "1999-10-11",
- eyes:"grey"
+ birth: "2000-10-10",
+ eyes:"green"
 },
 
 {
  id: 30,
  name: "Natalia",
- birth: "2005-02-24",
- eyes:"black"
-},
-
-{
- id: 31,
- name: "Natalia",
- birth: "1965-09-19",
- eyes:"hazel"
-},
-
-{
- id: 32,
- name: "Zuzanna",
  birth: "1999-10-11",
  eyes:"grey"
 },
 
 {
+ id: 31,
+ name: "Natalia",
+ birth: "1999-10-11",
+ eyes:"green"
+},
+
+{
+ id: 32,
+ name: "Kacper",
+ birth: "2000-10-10",
+ eyes:"grey"
+},
+
+{
  id: 33,
- name: "Zuzanna",
- birth: "2005-01-15",
+ name: "Lena",
+ birth: "1953-11-10",
  eyes:"grey"
 },
 
 {
  id: 34,
  name: "Mikołaj",
- birth: "2000-10-10",
- eyes:"black"
-},
-
-{
- id: 35,
- name: "Natalia",
- birth: "2005-01-15",
- eyes:"grey"
-},
-
-{
- id: 36,
- name: "Lena",
- birth: "2005-02-24",
- eyes:"amber"
-},
-
-{
- id: 37,
- name: "Dawid",
- birth: "1953-11-10",
- eyes:"grey"
-},
-
-{
- id: 38,
- name: "Lena",
- birth: "1965-09-19",
+ birth: "1989-05-19",
  eyes:"green"
 },
 
 {
- id: 39,
+ id: 35,
+ name: "Dawid",
+ birth: "1965-09-19",
+ eyes:"blue"
+},
+
+{
+ id: 36,
  name: "Natalia",
- birth: "2005-02-24",
+ birth: "2005-01-15",
+ eyes:"green"
+},
+
+{
+ id: 37,
+ name: "Mikołaj",
+ birth: "1953-11-10",
+ eyes:"amber"
+},
+
+{
+ id: 38,
+ name: "Dawid",
+ birth: "2005-01-15",
+ eyes:"blue"
+},
+
+{
+ id: 39,
+ name: "Lena",
+ birth: "2005-01-15",
  eyes:"grey"
 },
 
@@ -276,75 +276,75 @@ export const data = [
  id: 40,
  name: "Kacper",
  birth: "2005-01-15",
- eyes:"amber"
+ eyes:"green"
 },
 
 {
  id: 41,
- name: "Dawid",
- birth: "2005-01-15",
- eyes:"blue"
+ name: "Lena",
+ birth: "1999-10-11",
+ eyes:"grey"
 },
 
 {
  id: 42,
- name: "Lena",
- birth: "2005-02-24",
- eyes:"blue"
+ name: "Mikołaj",
+ birth: "1953-11-10",
+ eyes:"green"
 },
 
 {
  id: 43,
- name: "Mikołaj",
- birth: "1989-05-19",
- eyes:"amber"
+ name: "Natalia",
+ birth: "2005-02-24",
+ eyes:"grey"
 },
 
 {
  id: 44,
- name: "Mikołaj",
- birth: "2005-01-15",
- eyes:"hazel"
+ name: "Natalia",
+ birth: "2005-02-24",
+ eyes:"black"
 },
 
 {
  id: 45,
- name: "Natalia",
- birth: "2005-02-24",
- eyes:"blue"
+ name: "Zuzanna",
+ birth: "2005-01-15",
+ eyes:"amber"
 },
 
 {
  id: 46,
- name: "Kacper",
+ name: "Lena",
+ birth: "2000-10-10",
+ eyes:"grey"
+},
+
+{
+ id: 47,
+ name: "Mikołaj",
  birth: "1989-05-19",
  eyes:"hazel"
 },
 
 {
- id: 47,
- name: "Lena",
- birth: "1989-05-19",
- eyes:"green"
-},
-
-{
  id: 48,
- name: "Zuzanna",
+ name: "Dawid",
  birth: "2005-01-15",
- eyes:"green"
+ eyes:"grey"
 },
 
 {
  id: 49,
- name: "Lena",
- birth: "1965-09-19",
- eyes:"amber"
+ name: "Kacper",
+ birth: "1999-10-11",
+ eyes:"green"
 },
 
 {
  id: 50,
- name: "Lena",
+ name: "Kacper",
  birth: "2005-01-15",
  eyes:"black"
 },
@@ -352,62 +352,62 @@ export const data = [
 {
  id: 51,
  name: "Mikołaj",
- birth: "2000-10-10",
- eyes:"blue"
+ birth: "2005-02-24",
+ eyes:"amber"
 },
 
 {
  id: 52,
- name: "Kacper",
- birth: "1965-09-19",
- eyes:"black"
+ name: "Zuzanna",
+ birth: "2000-10-10",
+ eyes:"amber"
 },
 
 {
  id: 53,
  name: "Zuzanna",
- birth: "1953-11-10",
+ birth: "2005-02-24",
  eyes:"hazel"
 },
 
 {
  id: 54,
- name: "Dawid",
- birth: "2005-02-24",
+ name: "Lena",
+ birth: "1953-11-10",
  eyes:"black"
 },
 
 {
  id: 55,
- name: "Dawid",
- birth: "1989-05-19",
- eyes:"blue"
+ name: "Kacper",
+ birth: "2005-02-24",
+ eyes:"black"
 },
 
 {
  id: 56,
- name: "Lena",
- birth: "2005-02-24",
- eyes:"blue"
+ name: "Mikołaj",
+ birth: "1953-11-10",
+ eyes:"grey"
 },
 
 {
  id: 57,
- name: "Kacper",
- birth: "1965-09-19",
- eyes:"amber"
+ name: "Dawid",
+ birth: "2005-01-15",
+ eyes:"grey"
 },
 
 {
  id: 58,
- name: "Dawid",
+ name: "Kacper",
  birth: "2000-10-10",
- eyes:"hazel"
+ eyes:"black"
 },
 
 {
  id: 59,
- name: "Natalia",
+ name: "Zuzanna",
  birth: "2000-10-10",
  eyes:"green"
 },
@@ -415,287 +415,287 @@ export const data = [
 {
  id: 60,
  name: "Zuzanna",
- birth: "1953-11-10",
- eyes:"amber"
-},
-
-{
- id: 61,
- name: "Zuzanna",
- birth: "2005-01-15",
+ birth: "1999-10-11",
  eyes:"blue"
 },
 
 {
+ id: 61,
+ name: "Kacper",
+ birth: "2005-01-15",
+ eyes:"amber"
+},
+
+{
  id: 62,
- name: "Zuzanna",
- birth: "2000-10-10",
+ name: "Lena",
+ birth: "2005-02-24",
  eyes:"black"
 },
 
 {
  id: 63,
- name: "Lena",
- birth: "1965-09-19",
- eyes:"grey"
+ name: "Natalia",
+ birth: "2000-10-10",
+ eyes:"amber"
 },
 
 {
  id: 64,
- name: "Mikołaj",
- birth: "1953-11-10",
- eyes:"black"
+ name: "Zuzanna",
+ birth: "2000-10-10",
+ eyes:"amber"
 },
 
 {
  id: 65,
- name: "Natalia",
- birth: "1953-11-10",
- eyes:"amber"
+ name: "Mikołaj",
+ birth: "1999-10-11",
+ eyes:"blue"
 },
 
 {
  id: 66,
  name: "Dawid",
- birth: "2005-02-24",
- eyes:"grey"
+ birth: "1965-09-19",
+ eyes:"blue"
 },
 
 {
  id: 67,
- name: "Zuzanna",
- birth: "1999-10-11",
- eyes:"blue"
+ name: "Natalia",
+ birth: "1989-05-19",
+ eyes:"green"
 },
 
 {
  id: 68,
- name: "Natalia",
- birth: "1965-09-19",
- eyes:"green"
+ name: "Mikołaj",
+ birth: "1953-11-10",
+ eyes:"black"
 },
 
 {
  id: 69,
- name: "Zuzanna",
- birth: "1953-11-10",
- eyes:"green"
+ name: "Natalia",
+ birth: "1999-10-11",
+ eyes:"hazel"
 },
 
 {
  id: 70,
- name: "Zuzanna",
- birth: "2000-10-10",
- eyes:"black"
+ name: "Dawid",
+ birth: "1999-10-11",
+ eyes:"hazel"
 },
 
 {
  id: 71,
- name: "Kacper",
- birth: "1989-05-19",
- eyes:"amber"
+ name: "Natalia",
+ birth: "1953-11-10",
+ eyes:"grey"
 },
 
 {
  id: 72,
- name: "Zuzanna",
- birth: "1965-09-19",
- eyes:"black"
+ name: "Kacper",
+ birth: "1999-10-11",
+ eyes:"grey"
 },
 
 {
  id: 73,
- name: "Mikołaj",
+ name: "Zuzanna",
  birth: "2005-01-15",
- eyes:"amber"
+ eyes:"grey"
 },
 
 {
  id: 74,
- name: "Kacper",
- birth: "1965-09-19",
- eyes:"blue"
+ name: "Lena",
+ birth: "2000-10-10",
+ eyes:"hazel"
 },
 
 {
  id: 75,
  name: "Zuzanna",
- birth: "2005-02-24",
- eyes:"hazel"
+ birth: "1999-10-11",
+ eyes:"amber"
 },
 
 {
  id: 76,
- name: "Lena",
- birth: "1999-10-11",
+ name: "Mikołaj",
+ birth: "2005-01-15",
  eyes:"blue"
 },
 
 {
  id: 77,
  name: "Lena",
- birth: "2005-01-15",
+ birth: "1953-11-10",
  eyes:"black"
 },
 
 {
  id: 78,
  name: "Natalia",
- birth: "1965-09-19",
- eyes:"black"
-},
-
-{
- id: 79,
- name: "Kacper",
- birth: "2000-10-10",
+ birth: "1953-11-10",
  eyes:"grey"
 },
 
 {
+ id: 79,
+ name: "Mikołaj",
+ birth: "1953-11-10",
+ eyes:"amber"
+},
+
+{
  id: 80,
- name: "Lena",
- birth: "1999-10-11",
- eyes:"hazel"
+ name: "Zuzanna",
+ birth: "1989-05-19",
+ eyes:"amber"
 },
 
 {
  id: 81,
+ name: "Dawid",
+ birth: "1953-11-10",
+ eyes:"black"
+},
+
+{
+ id: 82,
+ name: "Lena",
+ birth: "2005-01-15",
+ eyes:"green"
+},
+
+{
+ id: 83,
  name: "Zuzanna",
+ birth: "1999-10-11",
+ eyes:"blue"
+},
+
+{
+ id: 84,
+ name: "Dawid",
+ birth: "2005-02-24",
+ eyes:"hazel"
+},
+
+{
+ id: 85,
+ name: "Dawid",
+ birth: "2005-01-15",
+ eyes:"blue"
+},
+
+{
+ id: 86,
+ name: "Kacper",
  birth: "2005-02-24",
  eyes:"blue"
 },
 
 {
- id: 82,
- name: "Mikołaj",
- birth: "2000-10-10",
- eyes:"hazel"
-},
-
-{
- id: 83,
- name: "Kacper",
- birth: "1953-11-10",
- eyes:"black"
-},
-
-{
- id: 84,
- name: "Mikołaj",
- birth: "2000-10-10",
- eyes:"amber"
-},
-
-{
- id: 85,
- name: "Lena",
- birth: "1953-11-10",
- eyes:"grey"
-},
-
-{
- id: 86,
- name: "Natalia",
- birth: "1989-05-19",
- eyes:"grey"
-},
-
-{
  id: 87,
- name: "Dawid",
+ name: "Lena",
  birth: "2005-01-15",
  eyes:"green"
 },
 
 {
  id: 88,
- name: "Zuzanna",
- birth: "2000-10-10",
- eyes:"green"
-},
-
-{
- id: 89,
- name: "Zuzanna",
+ name: "Dawid",
  birth: "1965-09-19",
  eyes:"grey"
 },
 
 {
- id: 90,
- name: "Natalia",
+ id: 89,
+ name: "Kacper",
  birth: "1989-05-19",
- eyes:"green"
+ eyes:"hazel"
+},
+
+{
+ id: 90,
+ name: "Mikołaj",
+ birth: "2005-02-24",
+ eyes:"amber"
 },
 
 {
  id: 91,
- name: "Kacper",
- birth: "2005-02-24",
- eyes:"black"
+ name: "Mikołaj",
+ birth: "1965-09-19",
+ eyes:"blue"
 },
 
 {
  id: 92,
- name: "Mikołaj",
+ name: "Kacper",
  birth: "2005-01-15",
  eyes:"amber"
 },
 
 {
  id: 93,
- name: "Mikołaj",
- birth: "1965-09-19",
- eyes:"blue"
-},
-
-{
- id: 94,
- name: "Mikołaj",
+ name: "Dawid",
  birth: "1999-10-11",
  eyes:"grey"
 },
 
 {
+ id: 94,
+ name: "Kacper",
+ birth: "1999-10-11",
+ eyes:"black"
+},
+
+{
  id: 95,
- name: "Dawid",
- birth: "2005-01-15",
- eyes:"blue"
+ name: "Natalia",
+ birth: "1989-05-19",
+ eyes:"amber"
 },
 
 {
  id: 96,
- name: "Kacper",
- birth: "1965-09-19",
+ name: "Dawid",
+ birth: "2000-10-10",
  eyes:"blue"
 },
 
 {
  id: 97,
  name: "Dawid",
- birth: "2005-02-24",
- eyes:"hazel"
+ birth: "2000-10-10",
+ eyes:"grey"
 },
 
 {
  id: 98,
- name: "Zuzanna",
- birth: "2000-10-10",
- eyes:"blue"
+ name: "Dawid",
+ birth: "1953-11-10",
+ eyes:"grey"
 },
 
 {
  id: 99,
- name: "Kacper",
- birth: "2005-01-15",
- eyes:"black"
+ name: "Natalia",
+ birth: "1989-05-19",
+ eyes:"hazel"
 },
 
 {
  id: 100,
- name: "Natalia",
- birth: "1965-09-19",
- eyes:"black"
+ name: "Mikołaj",
+ birth: "2005-01-15",
+ eyes:"green"
 },
 ];
