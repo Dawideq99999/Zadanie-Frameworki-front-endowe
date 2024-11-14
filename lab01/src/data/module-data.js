@@ -1,701 +1,801 @@
 export const data = [
 {
  id: 1,
- name: "Lena",
+ name: "Dawid",
  birth: "1999-10-11",
- eyes:"blue"
+ eyes:"green",
+ rating: 7
 },
 
 {
  id: 2,
  name: "Lena",
- birth: "1999-10-11",
- eyes:"grey"
+ birth: "2005-01-15",
+ eyes:"black",
+ rating: 4
 },
 
 {
  id: 3,
- name: "Mikołaj",
+ name: "Natalia",
  birth: "1999-10-11",
- eyes:"hazel"
+ eyes:"green",
+ rating: 4
 },
 
 {
  id: 4,
- name: "Mikołaj",
- birth: "1999-10-11",
- eyes:"grey"
+ name: "Zuzanna",
+ birth: "1965-09-19",
+ eyes:"blue",
+ rating: 2
 },
 
 {
  id: 5,
  name: "Lena",
- birth: "2005-02-24",
- eyes:"hazel"
+ birth: "1989-05-19",
+ eyes:"grey",
+ rating: 9
 },
 
 {
  id: 6,
  name: "Natalia",
  birth: "1953-11-10",
- eyes:"blue"
+ eyes:"blue",
+ rating: 9
 },
 
 {
  id: 7,
- name: "Zuzanna",
- birth: "2000-10-10",
- eyes:"amber"
+ name: "Lena",
+ birth: "1989-05-19",
+ eyes:"blue",
+ rating: 4
 },
 
 {
  id: 8,
- name: "Zuzanna",
+ name: "Lena",
  birth: "2000-10-10",
- eyes:"hazel"
+ eyes:"hazel",
+ rating: 0
 },
 
 {
  id: 9,
- name: "Mikołaj",
- birth: "1953-11-10",
- eyes:"black"
+ name: "Natalia",
+ birth: "2000-10-10",
+ eyes:"grey",
+ rating: 5
 },
 
 {
  id: 10,
  name: "Dawid",
  birth: "2005-01-15",
- eyes:"amber"
+ eyes:"blue",
+ rating: 8
 },
 
 {
  id: 11,
- name: "Natalia",
- birth: "2005-01-15",
- eyes:"blue"
+ name: "Kacper",
+ birth: "2000-10-10",
+ eyes:"amber",
+ rating: 8
 },
 
 {
  id: 12,
- name: "Kacper",
- birth: "1953-11-10",
- eyes:"black"
+ name: "Dawid",
+ birth: "2005-02-24",
+ eyes:"hazel",
+ rating: 10
 },
 
 {
  id: 13,
- name: "Natalia",
- birth: "2005-01-15",
- eyes:"hazel"
+ name: "Mikołaj",
+ birth: "2000-10-10",
+ eyes:"amber",
+ rating: 10
 },
 
 {
  id: 14,
- name: "Natalia",
- birth: "1999-10-11",
- eyes:"black"
+ name: "Zuzanna",
+ birth: "2005-02-24",
+ eyes:"blue",
+ rating: 6
 },
 
 {
  id: 15,
  name: "Kacper",
- birth: "1999-10-11",
- eyes:"hazel"
+ birth: "2000-10-10",
+ eyes:"blue",
+ rating: 8
 },
 
 {
  id: 16,
- name: "Kacper",
- birth: "1965-09-19",
- eyes:"grey"
+ name: "Natalia",
+ birth: "1999-10-11",
+ eyes:"blue",
+ rating: 2
 },
 
 {
  id: 17,
  name: "Mikołaj",
  birth: "1999-10-11",
- eyes:"amber"
+ eyes:"blue",
+ rating: 3
 },
 
 {
  id: 18,
- name: "Mikołaj",
- birth: "2000-10-10",
- eyes:"grey"
+ name: "Dawid",
+ birth: "1953-11-10",
+ eyes:"amber",
+ rating: 3
 },
 
 {
  id: 19,
- name: "Mikołaj",
+ name: "Lena",
  birth: "1965-09-19",
- eyes:"amber"
+ eyes:"green",
+ rating: 1
 },
 
 {
  id: 20,
  name: "Mikołaj",
- birth: "1999-10-11",
- eyes:"grey"
+ birth: "2005-01-15",
+ eyes:"green",
+ rating: 10
 },
 
 {
  id: 21,
- name: "Lena",
- birth: "2005-01-15",
- eyes:"grey"
+ name: "Dawid",
+ birth: "1989-05-19",
+ eyes:"black",
+ rating: 8
 },
 
 {
  id: 22,
- name: "Mikołaj",
- birth: "2005-01-15",
- eyes:"amber"
+ name: "Lena",
+ birth: "1989-05-19",
+ eyes:"grey",
+ rating: 3
 },
 
 {
  id: 23,
- name: "Kacper",
+ name: "Mikołaj",
  birth: "2005-01-15",
- eyes:"black"
+ eyes:"amber",
+ rating: 4
 },
 
 {
  id: 24,
  name: "Natalia",
  birth: "2000-10-10",
- eyes:"green"
+ eyes:"grey",
+ rating: 9
 },
 
 {
  id: 25,
- name: "Mikołaj",
- birth: "1989-05-19",
- eyes:"black"
+ name: "Natalia",
+ birth: "1953-11-10",
+ eyes:"hazel",
+ rating: 10
 },
 
 {
  id: 26,
- name: "Dawid",
- birth: "1953-11-10",
- eyes:"hazel"
+ name: "Natalia",
+ birth: "1965-09-19",
+ eyes:"blue",
+ rating: 8
 },
 
 {
  id: 27,
  name: "Zuzanna",
- birth: "1989-05-19",
- eyes:"blue"
+ birth: "1953-11-10",
+ eyes:"black",
+ rating: 4
 },
 
 {
  id: 28,
- name: "Zuzanna",
- birth: "1999-10-11",
- eyes:"green"
+ name: "Natalia",
+ birth: "2000-10-10",
+ eyes:"blue",
+ rating: 0
 },
 
 {
  id: 29,
- name: "Zuzanna",
- birth: "2000-10-10",
- eyes:"green"
+ name: "Dawid",
+ birth: "1989-05-19",
+ eyes:"black",
+ rating: 9
 },
 
 {
  id: 30,
  name: "Natalia",
- birth: "1999-10-11",
- eyes:"grey"
+ birth: "2005-01-15",
+ eyes:"black",
+ rating: 5
 },
 
 {
  id: 31,
- name: "Natalia",
- birth: "1999-10-11",
- eyes:"green"
+ name: "Lena",
+ birth: "1953-11-10",
+ eyes:"amber",
+ rating: 9
 },
 
 {
  id: 32,
- name: "Kacper",
- birth: "2000-10-10",
- eyes:"grey"
+ name: "Lena",
+ birth: "1953-11-10",
+ eyes:"blue",
+ rating: 3
 },
 
 {
  id: 33,
- name: "Lena",
- birth: "1953-11-10",
- eyes:"grey"
+ name: "Kacper",
+ birth: "1999-10-11",
+ eyes:"grey",
+ rating: 0
 },
 
 {
  id: 34,
  name: "Mikołaj",
- birth: "1989-05-19",
- eyes:"green"
+ birth: "1953-11-10",
+ eyes:"hazel",
+ rating: 2
 },
 
 {
  id: 35,
- name: "Dawid",
- birth: "1965-09-19",
- eyes:"blue"
+ name: "Mikołaj",
+ birth: "2000-10-10",
+ eyes:"grey",
+ rating: 1
 },
 
 {
  id: 36,
- name: "Natalia",
- birth: "2005-01-15",
- eyes:"green"
+ name: "Lena",
+ birth: "1999-10-11",
+ eyes:"green",
+ rating: 6
 },
 
 {
  id: 37,
- name: "Mikołaj",
+ name: "Zuzanna",
  birth: "1953-11-10",
- eyes:"amber"
+ eyes:"hazel",
+ rating: 4
 },
 
 {
  id: 38,
- name: "Dawid",
- birth: "2005-01-15",
- eyes:"blue"
+ name: "Kacper",
+ birth: "1989-05-19",
+ eyes:"amber",
+ rating: 1
 },
 
 {
  id: 39,
- name: "Lena",
- birth: "2005-01-15",
- eyes:"grey"
+ name: "Dawid",
+ birth: "1953-11-10",
+ eyes:"blue",
+ rating: 5
 },
 
 {
  id: 40,
- name: "Kacper",
- birth: "2005-01-15",
- eyes:"green"
+ name: "Mikołaj",
+ birth: "1989-05-19",
+ eyes:"hazel",
+ rating: 9
 },
 
 {
  id: 41,
- name: "Lena",
- birth: "1999-10-11",
- eyes:"grey"
+ name: "Kacper",
+ birth: "1989-05-19",
+ eyes:"amber",
+ rating: 10
 },
 
 {
  id: 42,
- name: "Mikołaj",
+ name: "Natalia",
  birth: "1953-11-10",
- eyes:"green"
+ eyes:"green",
+ rating: 8
 },
 
 {
  id: 43,
- name: "Natalia",
- birth: "2005-02-24",
- eyes:"grey"
+ name: "Kacper",
+ birth: "1989-05-19",
+ eyes:"black",
+ rating: 6
 },
 
 {
  id: 44,
- name: "Natalia",
- birth: "2005-02-24",
- eyes:"black"
+ name: "Zuzanna",
+ birth: "2005-01-15",
+ eyes:"hazel",
+ rating: 8
 },
 
 {
  id: 45,
  name: "Zuzanna",
- birth: "2005-01-15",
- eyes:"amber"
+ birth: "1989-05-19",
+ eyes:"blue",
+ rating: 4
 },
 
 {
  id: 46,
- name: "Lena",
- birth: "2000-10-10",
- eyes:"grey"
+ name: "Mikołaj",
+ birth: "2005-02-24",
+ eyes:"amber",
+ rating: 7
 },
 
 {
  id: 47,
- name: "Mikołaj",
- birth: "1989-05-19",
- eyes:"hazel"
+ name: "Dawid",
+ birth: "2000-10-10",
+ eyes:"hazel",
+ rating: 5
 },
 
 {
  id: 48,
- name: "Dawid",
- birth: "2005-01-15",
- eyes:"grey"
+ name: "Mikołaj",
+ birth: "1999-10-11",
+ eyes:"amber",
+ rating: 10
 },
 
 {
  id: 49,
- name: "Kacper",
- birth: "1999-10-11",
- eyes:"green"
+ name: "Dawid",
+ birth: "2005-01-15",
+ eyes:"hazel",
+ rating: 7
 },
 
 {
  id: 50,
- name: "Kacper",
+ name: "Lena",
  birth: "2005-01-15",
- eyes:"black"
+ eyes:"hazel",
+ rating: 5
 },
 
 {
  id: 51,
- name: "Mikołaj",
- birth: "2005-02-24",
- eyes:"amber"
+ name: "Zuzanna",
+ birth: "1989-05-19",
+ eyes:"blue",
+ rating: 2
 },
 
 {
  id: 52,
  name: "Zuzanna",
- birth: "2000-10-10",
- eyes:"amber"
+ birth: "1965-09-19",
+ eyes:"hazel",
+ rating: 2
 },
 
 {
  id: 53,
  name: "Zuzanna",
  birth: "2005-02-24",
- eyes:"hazel"
+ eyes:"blue",
+ rating: 5
 },
 
 {
  id: 54,
- name: "Lena",
- birth: "1953-11-10",
- eyes:"black"
+ name: "Natalia",
+ birth: "2005-01-15",
+ eyes:"amber",
+ rating: 9
 },
 
 {
  id: 55,
- name: "Kacper",
- birth: "2005-02-24",
- eyes:"black"
+ name: "Dawid",
+ birth: "2005-01-15",
+ eyes:"blue",
+ rating: 6
 },
 
 {
  id: 56,
- name: "Mikołaj",
- birth: "1953-11-10",
- eyes:"grey"
+ name: "Lena",
+ birth: "1965-09-19",
+ eyes:"grey",
+ rating: 3
 },
 
 {
  id: 57,
- name: "Dawid",
- birth: "2005-01-15",
- eyes:"grey"
+ name: "Mikołaj",
+ birth: "1953-11-10",
+ eyes:"blue",
+ rating: 5
 },
 
 {
  id: 58,
- name: "Kacper",
- birth: "2000-10-10",
- eyes:"black"
+ name: "Mikołaj",
+ birth: "1999-10-11",
+ eyes:"green",
+ rating: 9
 },
 
 {
  id: 59,
- name: "Zuzanna",
- birth: "2000-10-10",
- eyes:"green"
+ name: "Kacper",
+ birth: "1999-10-11",
+ eyes:"amber",
+ rating: 10
 },
 
 {
  id: 60,
  name: "Zuzanna",
- birth: "1999-10-11",
- eyes:"blue"
+ birth: "1989-05-19",
+ eyes:"amber",
+ rating: 4
 },
 
 {
  id: 61,
- name: "Kacper",
- birth: "2005-01-15",
- eyes:"amber"
+ name: "Zuzanna",
+ birth: "1999-10-11",
+ eyes:"black",
+ rating: 4
 },
 
 {
  id: 62,
- name: "Lena",
- birth: "2005-02-24",
- eyes:"black"
+ name: "Zuzanna",
+ birth: "2000-10-10",
+ eyes:"blue",
+ rating: 3
 },
 
 {
  id: 63,
- name: "Natalia",
- birth: "2000-10-10",
- eyes:"amber"
+ name: "Mikołaj",
+ birth: "2005-02-24",
+ eyes:"blue",
+ rating: 3
 },
 
 {
  id: 64,
- name: "Zuzanna",
+ name: "Dawid",
  birth: "2000-10-10",
- eyes:"amber"
+ eyes:"blue",
+ rating: 0
 },
 
 {
  id: 65,
- name: "Mikołaj",
- birth: "1999-10-11",
- eyes:"blue"
+ name: "Natalia",
+ birth: "1953-11-10",
+ eyes:"grey",
+ rating: 8
 },
 
 {
  id: 66,
- name: "Dawid",
+ name: "Lena",
  birth: "1965-09-19",
- eyes:"blue"
+ eyes:"green",
+ rating: 3
 },
 
 {
  id: 67,
- name: "Natalia",
- birth: "1989-05-19",
- eyes:"green"
+ name: "Dawid",
+ birth: "1965-09-19",
+ eyes:"blue",
+ rating: 1
 },
 
 {
  id: 68,
- name: "Mikołaj",
- birth: "1953-11-10",
- eyes:"black"
+ name: "Natalia",
+ birth: "2000-10-10",
+ eyes:"grey",
+ rating: 0
 },
 
 {
  id: 69,
- name: "Natalia",
- birth: "1999-10-11",
- eyes:"hazel"
+ name: "Lena",
+ birth: "2005-01-15",
+ eyes:"amber",
+ rating: 8
 },
 
 {
  id: 70,
- name: "Dawid",
+ name: "Mikołaj",
  birth: "1999-10-11",
- eyes:"hazel"
+ eyes:"blue",
+ rating: 4
 },
 
 {
  id: 71,
- name: "Natalia",
- birth: "1953-11-10",
- eyes:"grey"
+ name: "Zuzanna",
+ birth: "2005-01-15",
+ eyes:"black",
+ rating: 3
 },
 
 {
  id: 72,
- name: "Kacper",
- birth: "1999-10-11",
- eyes:"grey"
+ name: "Zuzanna",
+ birth: "1965-09-19",
+ eyes:"hazel",
+ rating: 2
 },
 
 {
  id: 73,
- name: "Zuzanna",
- birth: "2005-01-15",
- eyes:"grey"
+ name: "Kacper",
+ birth: "2000-10-10",
+ eyes:"blue",
+ rating: 3
 },
 
 {
  id: 74,
- name: "Lena",
- birth: "2000-10-10",
- eyes:"hazel"
+ name: "Mikołaj",
+ birth: "1989-05-19",
+ eyes:"hazel",
+ rating: 6
 },
 
 {
  id: 75,
- name: "Zuzanna",
- birth: "1999-10-11",
- eyes:"amber"
+ name: "Natalia",
+ birth: "1989-05-19",
+ eyes:"blue",
+ rating: 6
 },
 
 {
  id: 76,
- name: "Mikołaj",
- birth: "2005-01-15",
- eyes:"blue"
+ name: "Kacper",
+ birth: "1965-09-19",
+ eyes:"blue",
+ rating: 8
 },
 
 {
  id: 77,
- name: "Lena",
- birth: "1953-11-10",
- eyes:"black"
+ name: "Natalia",
+ birth: "1999-10-11",
+ eyes:"blue",
+ rating: 5
 },
 
 {
  id: 78,
- name: "Natalia",
- birth: "1953-11-10",
- eyes:"grey"
+ name: "Dawid",
+ birth: "2005-01-15",
+ eyes:"amber",
+ rating: 6
 },
 
 {
  id: 79,
- name: "Mikołaj",
- birth: "1953-11-10",
- eyes:"amber"
+ name: "Zuzanna",
+ birth: "1965-09-19",
+ eyes:"hazel",
+ rating: 9
 },
 
 {
  id: 80,
- name: "Zuzanna",
- birth: "1989-05-19",
- eyes:"amber"
+ name: "Mikołaj",
+ birth: "1965-09-19",
+ eyes:"grey",
+ rating: 0
 },
 
 {
  id: 81,
  name: "Dawid",
- birth: "1953-11-10",
- eyes:"black"
+ birth: "1999-10-11",
+ eyes:"grey",
+ rating: 8
 },
 
 {
  id: 82,
  name: "Lena",
- birth: "2005-01-15",
- eyes:"green"
+ birth: "1999-10-11",
+ eyes:"green",
+ rating: 10
 },
 
 {
  id: 83,
  name: "Zuzanna",
- birth: "1999-10-11",
- eyes:"blue"
+ birth: "2005-01-15",
+ eyes:"green",
+ rating: 4
 },
 
 {
  id: 84,
- name: "Dawid",
- birth: "2005-02-24",
- eyes:"hazel"
+ name: "Lena",
+ birth: "2005-01-15",
+ eyes:"amber",
+ rating: 1
 },
 
 {
  id: 85,
- name: "Dawid",
- birth: "2005-01-15",
- eyes:"blue"
+ name: "Lena",
+ birth: "2005-02-24",
+ eyes:"black",
+ rating: 9
 },
 
 {
  id: 86,
- name: "Kacper",
- birth: "2005-02-24",
- eyes:"blue"
+ name: "Zuzanna",
+ birth: "1965-09-19",
+ eyes:"hazel",
+ rating: 0
 },
 
 {
  id: 87,
  name: "Lena",
- birth: "2005-01-15",
- eyes:"green"
+ birth: "1965-09-19",
+ eyes:"grey",
+ rating: 5
 },
 
 {
  id: 88,
- name: "Dawid",
+ name: "Mikołaj",
  birth: "1965-09-19",
- eyes:"grey"
+ eyes:"black",
+ rating: 7
 },
 
 {
  id: 89,
- name: "Kacper",
+ name: "Zuzanna",
  birth: "1989-05-19",
- eyes:"hazel"
+ eyes:"hazel",
+ rating: 7
 },
 
 {
  id: 90,
- name: "Mikołaj",
- birth: "2005-02-24",
- eyes:"amber"
+ name: "Kacper",
+ birth: "1989-05-19",
+ eyes:"amber",
+ rating: 4
 },
 
 {
  id: 91,
- name: "Mikołaj",
+ name: "Kacper",
  birth: "1965-09-19",
- eyes:"blue"
+ eyes:"grey",
+ rating: 3
 },
 
 {
  id: 92,
- name: "Kacper",
- birth: "2005-01-15",
- eyes:"amber"
+ name: "Lena",
+ birth: "2005-02-24",
+ eyes:"amber",
+ rating: 1
 },
 
 {
  id: 93,
- name: "Dawid",
- birth: "1999-10-11",
- eyes:"grey"
+ name: "Natalia",
+ birth: "1965-09-19",
+ eyes:"green",
+ rating: 5
 },
 
 {
  id: 94,
- name: "Kacper",
- birth: "1999-10-11",
- eyes:"black"
+ name: "Natalia",
+ birth: "1953-11-10",
+ eyes:"hazel",
+ rating: 2
 },
 
 {
  id: 95,
- name: "Natalia",
+ name: "Lena",
  birth: "1989-05-19",
- eyes:"amber"
+ eyes:"grey",
+ rating: 3
 },
 
 {
  id: 96,
- name: "Dawid",
+ name: "Kacper",
  birth: "2000-10-10",
- eyes:"blue"
+ eyes:"green",
+ rating: 6
 },
 
 {
  id: 97,
- name: "Dawid",
- birth: "2000-10-10",
- eyes:"grey"
+ name: "Mikołaj",
+ birth: "1953-11-10",
+ eyes:"hazel",
+ rating: 7
 },
 
 {
  id: 98,
- name: "Dawid",
+ name: "Lena",
  birth: "1953-11-10",
- eyes:"grey"
+ eyes:"blue",
+ rating: 2
 },
 
 {
  id: 99,
- name: "Natalia",
- birth: "1989-05-19",
- eyes:"hazel"
+ name: "Mikołaj",
+ birth: "1999-10-11",
+ eyes:"hazel",
+ rating: 0
 },
 
 {
  id: 100,
- name: "Mikołaj",
- birth: "2005-01-15",
- eyes:"green"
+ name: "Lena",
+ birth: "2005-02-24",
+ eyes:"hazel",
+ rating: 5
 },
 ];
