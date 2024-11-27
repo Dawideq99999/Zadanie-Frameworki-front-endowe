@@ -5,6 +5,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import Lab1Page from '../pages/Lab1Page';
 import Lab2Page from '../pages/Lab2Page';
 import Home from '../pages/Home';
+import Lab3Page from '../pages/Lab3Page';  // Import nowego komponentu
 
 function RootLayout({ children }) {
   const menuItems = [
@@ -28,6 +29,13 @@ function RootLayout({ children }) {
       url: "/lab2/1",
       urlPattern: "/lab2/:id",
       element: <Lab2Page />
+    },
+    {
+      id: 4,
+      label: "Laboratorium 3",  // Dodanie nowego elementu
+      url: "/lab3",
+      urlPattern: "/lab3",
+      element: <Lab3Page />  // Nowy komponent dla Laboratorium 3
     }
   ];
 
@@ -52,7 +60,6 @@ function RootLayout({ children }) {
     </>
   );
 }
-
 
 RootLayout.propTypes = {
   children: PropTypes.node.isRequired, 
