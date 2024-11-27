@@ -1,3 +1,4 @@
+// src/layouts/RootLayout.js
 import { PropTypes } from 'prop-types'; 
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
@@ -5,7 +6,8 @@ import Navbar from 'react-bootstrap/Navbar';
 import Lab1Page from '../pages/Lab1Page';
 import Lab2Page from '../pages/Lab2Page';
 import Home from '../pages/Home';
-import Lab3Page from '../pages/Lab3Page';  // Import nowego komponentu
+import Lab3Page from '../pages/Lab3Page'; // Import nowego komponentu
+import Lab4Page from '../pages/Lab4Page'; // Import nowego Lab4Page
 
 function RootLayout({ children }) {
   const menuItems = [
@@ -32,10 +34,17 @@ function RootLayout({ children }) {
     },
     {
       id: 4,
-      label: "Laboratorium 3",  // Dodanie nowego elementu
+      label: "Laboratorium 3",  
       url: "/lab3",
       urlPattern: "/lab3",
-      element: <Lab3Page />  // Nowy komponent dla Laboratorium 3
+      element: <Lab3Page />  
+    },
+    {
+      id: 5,
+      label: "Laboratorium 4", // Nowy element dla Laboratorium 4
+      url: "/lab4",
+      urlPattern: "/lab4",
+      element: <Lab4Page />  // Komponent dla Laboratorium 4
     }
   ];
 

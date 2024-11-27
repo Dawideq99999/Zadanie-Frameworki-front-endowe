@@ -2,7 +2,7 @@ const NotFound = ()=>{
 
     return (
         <>
-            <h1>Zadanie</h1>
+            <h1>Witaj w aplikacji </h1>
         </>
     )
 }
